@@ -19,4 +19,4 @@
 ### `1. cd build`
 ### `2. cmake ..`
 ### `3. make`
-### `4. ./Burning_ship
+### `4. ./Burning_ship`
